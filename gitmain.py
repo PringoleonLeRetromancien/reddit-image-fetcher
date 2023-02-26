@@ -16,3 +16,7 @@ with open("voir README", "a") as file:
             file.write(url + '\n')
             file_name = url.split("/")[-1]
             urllib.request.urlretrieve(url, "voir README" + file_name) #la fonction qui télécharge/ the downloading function
+
+		
+		
+		
