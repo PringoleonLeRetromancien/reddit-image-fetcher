@@ -23,16 +23,16 @@ When running, if you followed the steps correctly, it will put all the images in
   
 C'est un petit programme capable de télécharger des images depuis plusieurs sous-reddits. Pour le faire fonctionner, veuillez suivre ces étapes : 
 
-- va sur https://www.reddit.com/prefs/apps/ pour créer une app reddit pour récupérer le client id et le client secret de ton application nouvellement créer
+- va sur https://www.reddit.com/prefs/apps/ pour créer une app reddit pour récupérer le client id et le client secret de ton application nouvellement créée
 
-- télécharge le script en conservant la hiérarchie des fichiers, renseigne le client id et secret aux lignes 4 et 5, et créé un user agent <comme ça>
+- télécharges le script en conservant la hiérarchie des fichiers, renseigne le client id et secret aux lignes 4 et 5, et créé un user agent <comme ça>
 
-- à la ligne 10, resenseigne l'emplacement de "url.txt" dans le dossier "images"
+- à la ligne 10, resenseignes l'emplacement de "url.txt" dans le dossier "images"
 
-- à la ligne 11, modifie la variable "limi" pour ajuster le nombre de posts que le programme va tester. Tu n'obtiendras pas autant d'images, pour la bonne et simple raison que touts les posts de contiennent pas des images
+- à la ligne 11, modifies la variable "limi" pour ajuster le nombre de posts que le programme va tester. Tu n'obtiendras pas autant d'images, pour la bonne et simple raison que touts les posts de contiennent pas des images
 
 - à la ligne 16, renseignes l'emplacement du fichier "images" au bon endroit (là où c'est écrit "voir README")
 
-- et normallement ça marches ! 
+- et normalement ça marche ! 
   
 Les images devraient alors commencer à apparaitre dans le fichier "images". 
