@@ -5,7 +5,8 @@ reddit = praw.Reddit(client_id='voire README',
 	client_secret='voir README', 
 	user_agent='voir README')
 
-subreddit = reddit.subreddit('voir README') #ajoute le nom des subreddits sans le r/ et avec des plus pour en mettre plusieurs dans la chaine (string) // add the names of the subreddits without the r/ and with + to add multiple subreddit (one string)
+subreddit = reddit.subreddit('voir README') #ajoute le nom des subreddits sans le r/ et avec des plus pour en mettre plusieurs dans la chaine (string) 
+					    #add the names of the subreddits without the r/ and with + to add multiple subreddit (one string)
 
 
 with open("voir README", "a") as file:
